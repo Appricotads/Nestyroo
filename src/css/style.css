@@ -74,12 +74,26 @@ main .wrap { max-width: var(--max-width); margin: 0 auto; padding: 0 20px; }
   padding: 20px 0;
   border-bottom: 1px solid var(--border);
 }
+.post-thumb {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  margin-bottom: 12px;
+}
 .post-list h3 { margin: 0 0 6px; }
 .post-meta { color: var(--ink-muted); font-size: 0.9rem; }
 
 /* Single post */
 .post-header { margin-bottom: 24px; }
 .post-header h1 { margin-bottom: 8px; }
+.post-featured-image {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  margin-bottom: 24px;
+}
 article.post img { max-width: 100%; border-radius: var(--radius); }
 article.post h2 { margin-top: 32px; }
 
