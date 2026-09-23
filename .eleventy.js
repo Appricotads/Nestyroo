@@ -2,6 +2,7 @@ module.exports = function (eleventyConfig) {
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/admin");
+  eleventyConfig.addPassthroughCopy("src/images");
 
   // Blog collection, newest first
   eleventyConfig.addCollection("blog", function (collectionApi) {
