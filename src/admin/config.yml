@@ -15,6 +15,8 @@ collections:
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Featured Image", name: "image", widget: "image", required: false }
+      - { label: "Image Alt Text", name: "imageAlt", widget: "string", required: false, hint: "Describe the image for accessibility and SEO" }
       - { label: "Description (shown in listings)", name: "description", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - label: "Tags"
