@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}{% if title %} · {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ description or site.tagline }}">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/">{{ site.name }}</a>
+      <nav class="nav">
+        {% for item in site.nav %}
+          <a href="{{ item.href }}">{{ item.text }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>&copy; {{ currentYear }} {{ site.name }}. All rights reserved.</p>
+      <nav class="footer-nav">
+        <a href="/legal/privacy/">Privacy policy</a>
+        <a href="/legal/terms/">Terms</a>
+        <a href="/legal/affiliate-disclosure/">Affiliate disclosure</a>
+        <a href="/legal/unsubscribe/">Unsubscribe</a>
+        <a href="/contact/">Contact</a>
+      </nav>
+      <p class="disclosure-note">
+        {{ site.name }} may earn a commission from links on this site. See our
+        <a href="/legal/affiliate-disclosure/">affiliate disclosure</a> for details.
+      </p>
+    </div>
+  </footer>
+
+  {% include "capture-popup.njk" %}
+  <script src="/css/capture.js" defer></script>
+  <!-- Netlify Identity: only activates if you follow an invite/login link, otherwise does nothing -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", (user) => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
+</html>

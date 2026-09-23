@@ -1,0 +1,47 @@
+<div id="capture-popup" class="capture-overlay">
+  <div class="capture-card">
+    <button type="button" class="capture-close" aria-label="Close">&times;</button>
+
+    <h2>Unlock today's deal</h2>
+    <p class="capture-sub">Get our best AU &amp; NZ deals sent straight to your inbox.</p>
+
+    <!--
+      Netlify Forms: the data-netlify attribute + hidden "form-name" input is all
+      that's needed. Submissions appear in your Netlify dashboard automatically —
+      no backend or database required for the MVP.
+    -->
+    <form
+      name="deal-alerts"
+      method="POST"
+      action="/thank-you/"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      class="capture-form"
+      id="capture-form"
+    >
+      <input type="hidden" name="form-name" value="deal-alerts">
+      <p class="hidden-field"><label>Don't fill this out: <input name="bot-field"></label></p>
+
+      <label for="cp-name">First name</label>
+      <input type="text" id="cp-name" name="name" required>
+
+      <label for="cp-email">Email</label>
+      <input type="email" id="cp-email" name="email" required>
+
+      <label class="consent-row">
+        <input type="checkbox" name="consent-newsletter" required>
+        <span>Send me deal alerts and money-saving tips. You can unsubscribe anytime.</span>
+      </label>
+
+      <label class="consent-row consent-optional">
+        <input type="checkbox" name="consent-partners">
+        <span>Optional: also send me relevant offers from our select partners.</span>
+      </label>
+
+      <button type="submit">Unlock my deal</button>
+      <p class="capture-fineprint">
+        See our <a href="/legal/privacy/">privacy policy</a> for how we use your data.
+      </p>
+    </form>
+  </div>
+</div>

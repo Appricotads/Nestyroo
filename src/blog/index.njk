@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+title: Blog
+permalink: /blog/
+---
+<div class="wrap">
+  <h1>All posts</h1>
+  <ul class="post-list">
+    {% for post in collections.blog %}
+      <li>
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <p class="post-meta">{{ post.data.date | readableDate }}{% if post.data.tags %} · {{ post.data.tags | join(", ") }}{% endif %}</p>
+        <p>{{ post.data.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

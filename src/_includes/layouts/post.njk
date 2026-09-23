@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+---
+<div class="wrap">
+  <article class="post">
+    <div class="post-header">
+      <h1>{{ title }}</h1>
+      <p class="post-meta">{{ date | readableDate }}{% if tags %} · {{ tags | join(", ") }}{% endif %}</p>
+    </div>
+    {{ content | safe }}
+  </article>
+</div>
