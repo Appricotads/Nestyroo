@@ -19,7 +19,10 @@ module.exports = function (eleventyConfig) {
       day: "numeric",
     });
   });
-
+  // Filter: posts that carry a given tag
+  eleventyConfig.addFilter("byTag", (posts, tag) =>
+    posts.filter((p) => (p.data.tags || []).includes(tag))
+  );
   // Filter: limit an array to N items
   eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
 
