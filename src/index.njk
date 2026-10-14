@@ -3,23 +3,33 @@ layout: layouts/base.njk
 title: Home
 ---
 <section class="hero">
-  <h1>{{ site.tagline }}</h1>
-  <p>Real deals, honest money tips, and seasonal sale guides for Australia and New Zealand — no fluff, just what's worth your time.</p>
+  <div class="wrap">
+    <h1>{{ site.tagline }}</h1>
+    <p>Baby gear, kids' essentials and honest savings tips for Australia and New Zealand, checked against price history before we share them.</p>
+    {% set suid = "hero" %}{% include "signup-inline.njk" %}
+  </div>
 </section>
 
-<div class="wrap">
-  <h2>Latest posts</h2>
-  <ul class="post-list">
-    {% for post in collections.blog | limit(6) %}
-      <li>
-        {% if post.data.image %}
-          <img class="post-thumb" src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}">
-        {% endif %}
-        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-        <p class="post-meta">{{ post.data.date | readableDate }}{% if post.data.tags %} · {{ post.data.tags | join(", ") }}{% endif %}</p>
-        <p>{{ post.data.description }}</p>
-      </li>
+<div class="wrap section">
+  <h2>Shop by stage</h2>
+  <div class="tiles">
+    {% for c in categories %}
+      <a class="tile tint-{{ c.tint }}" href="/category/{{ c.slug }}/"><b>{{ c.title }}</b><span>{{ c.blurb }}</span></a>
     {% endfor %}
-  </ul>
-  <p><a href="/blog/">See all posts &rarr;</a></p>
+  </div>
+</div>
+
+<div class="wrap section">
+  <h2>This week's picks</h2>
+  <div class="cards">
+    {% for post in collections.blog | limit(3) %}{% include "post-card.njk" %}{% endfor %}
+  </div>
+  <p><a href="/blog/">See all guides &rarr;</a></p>
+</div>
+
+<div class="wrap section">
+  <h2>Coming up</h2>
+  <div class="events">
+    {% for e in events %}<div class="event"><b>{{ e.when }}</b><span>{{ e.name }}</span></div>{% endfor %}
+  </div>
 </div>

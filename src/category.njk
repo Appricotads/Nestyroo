@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: categories
+  size: 1
+  alias: cat
+permalink: "/category/{{ cat.slug }}/"
+eleventyComputed:
+  title: "{{ cat.title }}"
+---
+<div class="wrap section">
+  <h1>{{ cat.title }}</h1>
+  <p class="lede">{{ cat.blurb }}</p>
+  <div class="cards">
+    {% for post in collections.blog | byTag(cat.slug) %}
+      {% include "post-card.njk" %}
+    {% else %}
+      <p>No posts here yet. Check back soon.</p>
+    {% endfor %}
+  </div>
+</div>

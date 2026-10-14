@@ -1,20 +1,11 @@
 ---
 layout: layouts/base.njk
-title: Blog
+title: All guides
 permalink: /blog/
 ---
-<div class="wrap">
-  <h1>All posts</h1>
-  <ul class="post-list">
-    {% for post in collections.blog %}
-      <li>
-        {% if post.data.image %}
-          <img class="post-thumb" src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}">
-        {% endif %}
-        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-        <p class="post-meta">{{ post.data.date | readableDate }}{% if post.data.tags %} · {{ post.data.tags | join(", ") }}{% endif %}</p>
-        <p>{{ post.data.description }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="wrap section">
+  <h1>All guides</h1>
+  <div class="cards">
+    {% for post in collections.blog %}{% include "post-card.njk" %}{% endfor %}
+  </div>
 </div>

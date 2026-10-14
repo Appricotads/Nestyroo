@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "EOFY Sales Guide 2026: Best Deals for Aussie Households"
 description: "Everything worth buying before June 30 — and what to actually skip."
 date: 2026-05-15
-tags: ["lifestyle", "seasonal"]
+tags: ["sales-calendar"]
 ---
 
 End of financial year sales run through June, and while retailers push everything, only a handful of categories are genuinely discounted enough to be worth your attention.

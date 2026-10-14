@@ -1,11 +1,5 @@
 module.exports = {
-  name: "Site A",
-  tagline: "Deals, savings & smarter money moves for AU & NZ",
+  name: "[Brand name]", // replace once you choose a name
+  tagline: "Real deals for busy young families",
   url: "https://example.netlify.app", // replace once you pick a domain
-  nav: [
-    { text: "Home", href: "/" },
-    { text: "Blog", href: "/blog/" },
-    { text: "About", href: "/about/" },
-    { text: "Contact", href: "/contact/" },
-  ],
 };

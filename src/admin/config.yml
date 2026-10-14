@@ -19,10 +19,14 @@ collections:
       - { label: "Image Alt Text", name: "imageAlt", widget: "string", required: false, hint: "Describe the image for accessibility and SEO" }
       - { label: "Description (shown in listings)", name: "description", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - label: "Tags"
+      - label: "Category"
         name: "tags"
         widget: "select"
         multiple: true
-        options: ["lifestyle", "finance", "seasonal"]
-        default: ["lifestyle"]
+        options:
+          - { label: "Baby & nursery", value: "baby-nursery" }
+          - { label: "Kids & school", value: "kids-school" }
+          - { label: "Savings tips", value: "savings-tips" }
+          - { label: "Sales calendar", value: "sales-calendar" }
+        default: ["baby-nursery"]
       - { label: "Body", name: "body", widget: "markdown" }

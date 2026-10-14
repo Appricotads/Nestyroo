@@ -5,53 +5,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}{% if title %} · {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or site.tagline }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-
   <header class="site-header">
-    <div class="wrap">
+    <div class="wrap header-row">
       <a class="brand" href="/">{{ site.name }}</a>
       <nav class="nav">
-        {% for item in site.nav %}
-          <a href="{{ item.href }}">{{ item.text }}</a>
-        {% endfor %}
+        {% for c in categories %}<a href="/category/{{ c.slug }}/">{{ c.title }}</a>{% endfor %}
+        <button type="button" class="btn-pill" data-open-capture>Get deals</button>
       </nav>
     </div>
   </header>
 
-  <main>
-    {{ content | safe }}
-  </main>
+  <main>{{ content | safe }}</main>
 
   <footer class="site-footer">
     <div class="wrap">
-      <p>&copy; {{ currentYear }} {{ site.name }}. All rights reserved.</p>
       <nav class="footer-nav">
-        <a href="/legal/privacy/">Privacy policy</a>
+        <a href="/about/">About</a>
+        <a href="/legal/privacy/">Privacy</a>
         <a href="/legal/terms/">Terms</a>
         <a href="/legal/affiliate-disclosure/">Affiliate disclosure</a>
         <a href="/legal/unsubscribe/">Unsubscribe</a>
         <a href="/contact/">Contact</a>
       </nav>
-      <p class="disclosure-note">
-        {{ site.name }} may earn a commission from links on this site. See our
-        <a href="/legal/affiliate-disclosure/">affiliate disclosure</a> for details.
-      </p>
+      <p>We may earn a commission from links on this site, at no extra cost to you.</p>
+      <p>&copy; {{ currentYear }} {{ site.name }}</p>
     </div>
   </footer>
 
   {% include "capture-popup.njk" %}
   <script src="/css/capture.js" defer></script>
-  <!-- Netlify Identity: only activates if you follow an invite/login link, otherwise does nothing -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script>
     if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", (user) => {
+      window.netlifyIdentity.on("init", function (user) {
         if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
+          window.netlifyIdentity.on("login", function () { document.location.href = "/admin/"; });
         }
       });
     }

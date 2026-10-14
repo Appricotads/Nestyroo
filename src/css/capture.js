@@ -42,6 +42,15 @@
       });
     }
 
+    // "Get deals" buttons open the popup on demand, even if it was dismissed before
+    var openers = document.querySelectorAll("[data-open-capture]");
+    for (var i = 0; i < openers.length; i++) {
+      openers[i].addEventListener("click", function () {
+        var popup = document.getElementById("capture-popup");
+        if (popup) popup.classList.add("is-open");
+      });
+    }
+
     if (!alreadyDismissed()) {
       setTimeout(showPopup, DELAY_MS);
     }

@@ -1,0 +1,10 @@
+<a class="card" href="{{ post.url }}">
+  {% if post.data.image %}
+    <img class="card-img" src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}">
+  {% else %}
+    <div class="card-img ph"></div>
+  {% endif %}
+  <span class="card-tag">{% for c in categories %}{% if c.slug in post.data.tags %}{{ c.title }}{% endif %}{% endfor %}</span>
+  <b class="card-title">{{ post.data.title }}</b>
+  <span class="card-desc">{{ post.data.description }}</span>
+</a>

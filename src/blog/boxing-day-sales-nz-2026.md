@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "Boxing Day Sales NZ 2026: Where to Shop First"
 description: "Which Boxing Day sales are worth queuing for in New Zealand, and which to skip."
 date: 2026-12-20
-tags: ["lifestyle", "seasonal"]
+tags: ["sales-calendar"]
 ---
 
 Boxing Day in New Zealand isn't quite the same event it is in Australia — smaller retailer
