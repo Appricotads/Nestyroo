@@ -9,12 +9,12 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
-<link rel="icon" type="image/png" href="/images/uploads/nestyroo_logo_2.png">
+<link rel="icon" type="image/png" href="/images/uploads/nestyroo_favicon.png">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap header-row">
-      <a class="brand" href="/" aria-label="Nestyroo home">   <img src="/images/uploads/nestyroo_logo_1.png" alt="Nestyroo logo"> </a>
+      <a class="brand" href="/" aria-label="Nestyroo home">   <img src="/images/uploads/nestyroo_logo.png" alt="Nestyroo logo"> </a>
       <nav class="nav">
         {% for c in categories %}<a href="/category/{{ c.slug }}/">{{ c.title }}</a>{% endfor %}
         <button type="button" class="btn-pill" data-open-capture>Get deals</button>
