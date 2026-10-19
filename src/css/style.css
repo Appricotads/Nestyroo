@@ -97,22 +97,27 @@ h1, h2, h3 { line-height: 1.2; }
 .brand {
   display: block;
   flex-shrink: 0;
+  width: 400px;
+  max-width: 100%;
   line-height: 0;
 }
 
 .brand img {
   display: block;
-  width: 400px;
+  width: 100%;
   height: auto;
   max-width: 100%;
+  object-fit: contain;
 }
 
-/* Header layout */
+.site-header .wrap,
+.hero .wrap {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
 .header-row {
   justify-content: flex-start;
-}
-
-/* Keep hero content aligned to the same left edge */
-.hero .wrap {
-  text-align: left;
 }
