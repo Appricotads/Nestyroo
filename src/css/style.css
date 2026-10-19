@@ -93,3 +93,9 @@ h1, h2, h3 { line-height: 1.2; }
   .hero h1, .post-title { font-size: 32px; }
   .nav { gap: 14px; font-size: 14px; }
 }
+.brand img {
+  display: block;
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+}
