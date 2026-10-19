@@ -99,3 +99,12 @@ h1, h2, h3 { line-height: 1.2; }
   height: auto;
   max-width: 100%;
 }
+}
+/* Align the logo and homepage text to the left */
+.header-row {
+  justify-content: flex-start;
+}
+
+.hero .wrap {
+  text-align: left;
+}
