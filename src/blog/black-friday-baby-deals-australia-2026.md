@@ -110,14 +110,3 @@ Only if the price per nappy beats what you normally pay and your baby will use t
 ---
 
 Looking for more? Browse our [baby and nursery guides](/category/baby-gear-nursery/) or the full [sales calendar](/category/sales-calendar/). We'll update this guide as Click Frenzy confirms its dates and retailers announce their November sales.
-
-<!--
-EDITOR NOTES (delete before publishing):
-1. SEO: suggested featured image file name: black-friday-baby-deals-australia-2026.jpg
-   Alt text: "Parent comparing baby gear prices on a phone before the Black Friday sales"
-2. Update the Click Frenzy row and the first FAQ answers once official 2026 dates are announced.
-3. Add affiliate deal boxes only for real, current deals:
-   <div class="deal-box"><b>Product name</b><br>Retailer · $Price<br><a class="btn" href="YOUR-AFFILIATE-LINK">See today's price</a></div>
-4. Add internal links to new articles (gift guide, pram guide, car seat guide) as they are published.
-5. Re-check dates and update the "Last updated" line on 27 November.
--->
