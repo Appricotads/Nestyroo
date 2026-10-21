@@ -55,6 +55,24 @@ h1, h2, h3 { line-height: 1.2; }
 .post-layout { display: flex; flex-wrap: wrap; gap: 40px; padding-top: 24px; }
 .post { flex: 2 1 520px; min-width: 0; font-size: 18px; line-height: 1.7; }
 .post h2 { font-size: 26px; margin-top: 32px; }
+/* Tables inside articles */
+.post table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 17px;
+}
+.post th,
+.post td {
+  border: 1px solid var(--line);
+  padding: 12px 20px;
+  text-align: left;
+  vertical-align: top;
+}
+.post th {
+  background: var(--soft);
+  font-weight: 800;
+}
 .post img { max-width: 100%; border-radius: 16px; }
 .post-featured-image { width: 100%; max-height: 360px; object-fit: cover; margin-bottom: 8px; }
 .deal-box { border: 1px solid var(--teal-line); background: var(--teal-tint); border-radius: var(--radius); padding: 18px; margin: 20px 0; }
