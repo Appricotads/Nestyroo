@@ -11,7 +11,7 @@ title: Home
 </section>
 
 <div class="wrap section">
-  <h2>Shop by stage</h2>
+  <h2>Browse by Topic</h2>
   <div class="tiles">
     {% for c in categories %}
       <a class="tile tint-{{ c.tint }}" href="/category/{{ c.slug }}/"><b>{{ c.title }}</b><span>{{ c.blurb }}</span></a>
@@ -20,7 +20,7 @@ title: Home
 </div>
 
 <div class="wrap section">
-  <h2>This week's picks</h2>
+  <h2>This Week's Picks</h2>
   <div class="cards">
     {% for post in collections.blog | limit(3) %}{% include "post-card.njk" %}{% endfor %}
   </div>
@@ -28,7 +28,7 @@ title: Home
 </div>
 
 <div class="wrap section">
-  <h2>Coming up</h2>
+  <h2>Coming Up</h2>
   <div class="events">
     {% for e in events %}<div class="event"><b>{{ e.when }}</b><span>{{ e.name }}</span></div>{% endfor %}
   </div>
