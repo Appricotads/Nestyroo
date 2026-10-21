@@ -1,9 +1,14 @@
 ---
 layout: layouts/post.njk
-title: "Black Friday Baby Deals Australia 2026 Guide"
-description: "Black Friday baby deals in Australia 2026: key sale dates, what to price-check now, and safety checks before buying prams, cots and car seats."
+title: Black Friday Baby Deals Australia 2026 Guide
+image: /images/uploads/pexels-yankrukov-6209542.jpg
+imageAlt: Parent comparing baby gear prices on a phone before the Black Friday sales
+description: "Black Friday baby deals in Australia 2026: key sale dates, what to
+  price-check now, and safety checks before buying prams, cots and car seats."
 date: 2026-10-20
-tags: ["sales-calendar", "baby-gear-nursery"]
+tags:
+  - sales-calendar
+  - baby-gear-nursery
 ---
 
 Black Friday baby deals in Australia are worth planning for, because prams, car seats and cots can swing by a lot of dollars during the November sales. A little preparation now helps you buy what you actually need, at a price you've checked, and avoid rushed purchases you regret later.
