@@ -27,6 +27,6 @@ collections:
           - { label: "Pregnancy & newborn", value: "pregnancy-newborn" }
           - { label: "Baby Gear & Nursery", value: "baby-gear-nursery" }
           - { label: "Toddlers & Kids", value: "toddlers-kids" }
-          - { label: "Savings tips", value: "savings-tips" }
-          - { label: "Sales calendar", value: "sales-calendar" }
+          - { label: "Savings Tips", value: "savings-tips" }
+          - { label: "Sales Calendar", value: "sales-calendar" }
       - { label: "Body", name: "body", widget: "markdown" }
