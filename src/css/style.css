@@ -28,7 +28,7 @@ h1, h2, h3 { line-height: 1.2; }
 .hero h1 { margin: 0 0 14px; font-size: 46px; font-weight: 800; max-width: 720px; }
 .hero p { margin: 0 0 24px; font-size: 19px; max-width: 620px; color: #3E4A45; }
 .signup-inline { display: flex; flex-wrap: wrap; gap: 10px; max-width: 520px; }
-.signup-inline input[type="email"] { flex: 1 1 240px; padding: 14px 16px; font: inherit; border: 1px solid var(--teal-line); border-radius: 12px; }
+.signup-inline input[type="email"], .signup-inline input[type="text"] { flex: 1 1 200px; padding: 14px 16px; font: inherit; border: 1px solid var(--teal-line); border-radius: 12px; }
 .signup-inline button { padding: 14px 24px; font: inherit; font-weight: 800; background: var(--teal); color: #fff; border: 0; border-radius: 12px; cursor: pointer; }
 .signup-note { flex-basis: 100%; margin: 0; font-size: 13px; color: var(--muted); }
 
@@ -80,7 +80,7 @@ h1, h2, h3 { line-height: 1.2; }
 .sidebar { flex: 1 1 280px; }
 .side-card { background: var(--teal-tint); border-radius: 16px; padding: 22px; }
 .side-card b { font-size: 20px; display: block; margin-bottom: 10px; }
-.side-card .signup-inline input[type="email"], .side-card .signup-inline button { flex: 1 1 100%; }
+.side-card .signup-inline input[type="email"], .side-card .signup-inline input[type="text"], .side-card .signup-inline button { flex: 1 1 100%; }
 .related { padding-left: 18px; line-height: 1.8; }
 
 /* Footer */
