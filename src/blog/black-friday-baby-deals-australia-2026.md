@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Black Friday Baby Deals Australia 2026 Guide
-image: /images/uploads/pexels-yankrukov-6209542.jpg
+image: /images/uploads/black-friday-baby-deals-australia-2026.jpg
 imageAlt: Parent comparing baby gear prices on a phone before the Black Friday sales
 description: "Black Friday baby deals in Australia 2026: key sale dates, what to
   price-check now, and safety checks before buying prams, cots and car seats."
