@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Click Frenzy 2026 Baby Deals Guide
-image: /images/uploads/screenshot-2026-10-22-at-17.23.44.png
+image: /images/uploads/Click-Frenzy-2026-discounted-strollers-listed-with-sale-prices.png
 imageAlt: Click Frenzy 2026 discounted strollers listed with sale prices
 description: Click Frenzy 2026 runs 27-30 October. Here's how to prepare, which
   baby gear is worth buying, and how to avoid fake discounts.
