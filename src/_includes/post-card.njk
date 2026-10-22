@@ -4,7 +4,7 @@
   {% else %}
     <div class="card-img ph"></div>
   {% endif %}
-  <span class="card-tag">{% for c in categories %}{% if c.slug in post.data.tags %}{{ c.title }}{% endif %}{% endfor %}</span>
+<span class="card-tag">{% for c in categories %}{% if c.slug in post.data.tags %}<span>{{ c.title }}</span>{% endif %}{% endfor %}</span>
   <b class="card-title">{{ post.data.title }}</b>
   <span class="card-desc">{{ post.data.description }}</span>
 </a>
