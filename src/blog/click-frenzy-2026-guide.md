@@ -1,9 +1,14 @@
 ---
 layout: layouts/post.njk
-title: "Click Frenzy 2026 Baby Deals Guide"
-description: "Click Frenzy 2026 runs 27-30 October. Here's how to prepare, which baby gear is worth buying, and how to avoid fake discounts."
+title: Click Frenzy 2026 Baby Deals Guide
+image: /images/uploads/screenshot-2026-10-22-at-17.23.44.png
+imageAlt: Click Frenzy 2026 discounted prams listed with sale prices
+description: Click Frenzy 2026 runs 27-30 October. Here's how to prepare, which
+  baby gear is worth buying, and how to avoid fake discounts.
 date: 2026-10-22
-tags: ["sales-calendar", "baby-nursery"]
+tags:
+  - sales-calendar
+  - baby-nursery
 ---
 
 *Last updated 22 October 2026.*
