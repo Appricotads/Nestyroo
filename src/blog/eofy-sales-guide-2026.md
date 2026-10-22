@@ -1,9 +1,14 @@
 ---
 layout: layouts/post.njk
 title: "EOFY Sales Guide 2027: Best Deals for Aussie Households"
-description: "EOFY sales guide for Australian households: when sales start, what to buy, how to spot fake discounts and how to plan ahead for 30 June 2027."
+image: /images/uploads/eofy-sales-guide-2027-for-aussie-families.png
+imageAlt: Australian family comparing household appliance prices during the EOFY sales
+description: "EOFY sales guide for Australian households: when sales start, what
+  to buy, how to spot fake discounts and how to plan ahead for 30 June 2027."
 date: 2026-10-22
-tags: ["sales-calendar", "savings-tips"]
+tags:
+  - sales-calendar
+  - savings-tips
 ---
 
 The EOFY sales guide for Australian households starts with one date: the financial year ends on **Wednesday 30 June 2027**, and retailers use it for some of the biggest sales of the year. If you plan ahead, you can pick up appliances, TVs, laptops, furniture and family essentials for less, without buying something you don't need in a rush.
