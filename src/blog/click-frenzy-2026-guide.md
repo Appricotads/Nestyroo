@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Click Frenzy 2026 Baby Deals Guide (Australia)"
+title: "Click Frenzy 2026 Baby Deals Guide"
 description: "Click Frenzy 2026 runs 27-30 October. Here's how to prepare, which baby gear is worth buying, and how to avoid fake discounts."
 date: 2026-10-22
 tags: ["sales-calendar", "baby-nursery"]
