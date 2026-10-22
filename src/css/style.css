@@ -30,7 +30,7 @@ h1, h2, h3 { line-height: 1.2; }
 .signup-inline { display: flex; flex-wrap: wrap; gap: 10px; max-width: 520px; }
 .signup-inline input[type="email"], .signup-inline input[type="text"] { flex: 1 1 200px; padding: 14px 16px; font: inherit; border: 1px solid var(--teal-line); border-radius: 12px; }
 .signup-inline button { padding: 14px 24px; font: inherit; font-weight: 800; background: var(--teal); color: #fff; border: 0; border-radius: 12px; cursor: pointer; }
-.hero .signup-note, .signup-inline .signup-note { flex-basis: 100%; margin: 0; max-width: none; font-size: 11px; line-height: 1.4; color: var(--muted); }
+.hero .signup-note, .signup-inline .signup-note { flex-basis: 100%; margin: 0; max-width: none; font-size: 12px; line-height: 1.4; color: var(--muted); }
 /* Tiles, cards, events */
 .tiles, .cards, .events { display: flex; flex-wrap: wrap; gap: 16px; }
 .tile { flex: 1 1 240px; border-radius: 16px; padding: 24px; color: var(--ink); display: flex; flex-direction: column; gap: 4px; }
