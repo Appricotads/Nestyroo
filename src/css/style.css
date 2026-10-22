@@ -139,3 +139,6 @@ h1, h2, h3 { line-height: 1.2; }
 .header-row {
   justify-content: flex-start;
 }
+
+/* Space between category tags on cards */
+.card-tag { display: flex; flex-wrap: wrap; gap: 4px 14px; }
