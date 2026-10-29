@@ -1,10 +1,14 @@
 <form class="signup-inline" name="deal-alerts-inline" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/">
   <input type="hidden" name="form-name" value="deal-alerts-inline">
   <p class="hidden-field"><label>Don't fill this out: <input name="bot-field"></label></p>
-  <label class="sr-only" for="inline-name">First name</label>
-  <input id="inline-name" type="text" name="first-name" placeholder="First name" autocomplete="given-name">
-  <label class="sr-only" for="inline-email">Email</label>
-  <input id="inline-email" type="email" name="email" placeholder="Your email" required autocomplete="email">
+  <label class="sr-only" for="inline-name-{{ suid }}">First name</label>
+  <input id="inline-name-{{ suid }}" type="text" name="first-name" placeholder="First name" autocomplete="given-name">
+  <label class="sr-only" for="inline-email-{{ suid }}">Email</label>
+  <input id="inline-email-{{ suid }}" type="email" name="email" placeholder="Your email" required autocomplete="email">
   <button type="submit">Get my deals</button>
-  <p class="signup-note">By subscribing you agree to receive our deal emails. You can unsubscribe anytime. <a href="/legal/privacy/">Privacy policy</a></p>
+  <label class="consent-inline">
+    <input type="checkbox" name="consent-newsletter" required>
+    <span>Send me Nestyroo deal alerts and money-saving tips. I'm 18 or older and can unsubscribe anytime.</span>
+  </label>
+  <p class="signup-note">See our <a href="/legal/privacy/">Privacy Policy</a> for how we use your details.</p>
 </form>

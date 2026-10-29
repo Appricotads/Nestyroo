@@ -1,3 +1,6 @@
+@font-face { font-family: "Nunito"; font-style: normal; font-weight: 400; font-display: swap; src: url("/fonts/nunito-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Nunito"; font-style: normal; font-weight: 600; font-display: swap; src: url("/fonts/nunito-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Nunito"; font-style: normal; font-weight: 800; font-display: swap; src: url("/fonts/nunito-latin-800-normal.woff2") format("woff2"); }
 :root {
   --ink: #1F2A27; --muted: #5B6661; --bg: #FBFAF7; --soft: #F3F0E8; --line: #E6E2D8;
   --teal: #0F6E56; --teal-tint: #E3F1EC; --teal-line: #B9CFC7;
@@ -141,3 +144,16 @@ h1, h2, h3 { line-height: 1.2; }
 
 /* Space between category tags on cards */
 .card-tag { display: flex; flex-wrap: wrap; gap: 4px 14px; }
+
+/* Cookie consent banner */
+.consent-banner { position: fixed; left: 16px; right: 16px; bottom: 16px; z-index: 1000; max-width: 640px; margin: 0 auto; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 8px 30px rgba(0,0,0,.12); padding: 18px 20px; font-size: 14px; display: none; }
+.consent-banner.is-open { display: block; }
+.consent-banner p { margin: 0 0 12px; }
+.consent-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.consent-actions button { flex: 1 1 140px; padding: 10px 16px; font: inherit; font-weight: 800; border-radius: 10px; cursor: pointer; border: 2px solid var(--teal); }
+.consent-actions .consent-accept { background: var(--teal); color: #fff; }
+.consent-actions .consent-reject { background: #fff; color: var(--teal); }
+.link-button { background: none; border: 0; padding: 0; font: inherit; color: var(--teal); cursor: pointer; }
+.link-button:hover { text-decoration: underline; }
+.signup-inline .consent-inline { flex-basis: 100%; display: flex; align-items: flex-start; gap: 8px; font-size: 12px; line-height: 1.4; color: var(--muted); margin: 0; }
+.legal-doc ul { padding-left: 22px; }

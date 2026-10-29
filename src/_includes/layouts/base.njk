@@ -5,9 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}{% if title %} · {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or site.tagline }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
 <link rel="icon" type="image/png" href="/images/uploads/nestyroo_favicon.png">
    {% if noindex %}<meta name="robots" content="noindex">{% endif %}
@@ -34,6 +31,7 @@
         <a href="/legal/affiliate-disclosure/">Affiliate disclosure</a>
         <a href="/legal/unsubscribe/">Unsubscribe</a>
         <a href="/contact/">Contact</a>
+        <button type="button" class="link-button" data-open-consent>Cookie settings</button>
       </nav>
       <p>We may earn a commission from links on this site, at no extra cost to you.</p>
       <p>&copy; {{ currentYear }} {{ site.name }}</p>
@@ -42,14 +40,13 @@
 
   {% include "capture-popup.njk" %}
   <script src="/css/capture.js" defer></script>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% include "cookie-consent.njk" %}
+  <script src="/js/consent.js" data-ga-id="{{ site.gaMeasurementId }}" defer></script>
   <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", function (user) {
-        if (!user) {
-          window.netlifyIdentity.on("login", function () { document.location.href = "/admin/"; });
-        }
-      });
+    /* CMS invite and password links land on the homepage: send them to the editor,
+       so the Netlify Identity script only loads on /admin/ and not for visitors. */
+    if (/(invite|recovery|confirmation|email_change)_token=/.test(location.hash)) {
+      location.replace("/admin/" + location.hash);
     }
   </script>
 </body>
