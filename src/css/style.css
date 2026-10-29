@@ -141,6 +141,16 @@ h1, h2, h3 { line-height: 1.2; }
 
 .header-row {
   justify-content: flex-start;
+  flex-wrap: nowrap;
+  gap: 8px;
+}
+.site-header .wrap { max-width: 1440px; }
+.nav { gap: 26px; font-size: 15px; white-space: nowrap; }
+
+/* On smaller screens, let the menu wrap under the logo */
+@media (max-width: 1340px) {
+  .header-row { flex-wrap: wrap; gap: 8px 24px; }
+  .nav { gap: 20px; }
 }
 
 /* Space between category tags on cards */
