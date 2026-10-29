@@ -14,7 +14,4 @@ Interest rates shift often, so this list gets refreshed quarterly rather than wr
 - Whether the bonus rate is introductory or ongoing
 - Any linked transaction account fees
 
-<!-- CTA is intentionally generic so it can point to a specific partner offer later without rewriting this article -->
 **Ready to compare current offers?** [See today's top savings account offers &rarr;](/blog/)
-
-*(This is placeholder MVP content — replace with full research-backed copy before publishing.)*
