@@ -1,0 +1,30 @@
+<div id="capture-popup" class="capture-overlay">
+  <div class="capture-card">
+    <button type="button" class="capture-close" aria-label="Close">&times;</button>
+    <h2>Get the best family deals</h2>
+    <p class="capture-sub">Baby gear, family savings and school holiday ideas for Australia, straight to your inbox.</p>
+
+    <form name="deal-alerts" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="bot-field" class="capture-form">
+      <input type="hidden" name="form-name" value="deal-alerts">
+      <p class="hidden-field"><label>Leave blank: <input name="bot-field"></label></p>
+
+      <label for="cp-name">First name</label>
+      <input type="text" id="cp-name" name="name" required>
+      <label for="cp-email">Email</label>
+      <input type="email" id="cp-email" name="email" required>
+
+      <p class="interest-title">What would you like to hear about? <span>Optional</span></p>
+      <label class="interest"><input type="checkbox" name="interests" value="baby-family"> Baby and family deals</label>
+      <label class="interest"><input type="checkbox" name="interests" value="home-savings"> Home and family savings</label>
+      <label class="interest"><input type="checkbox" name="interests" value="family-travel"> Family travel and staycations</label>
+      <label class="interest"><input type="checkbox" name="interests" value="seasonal-sales"> Seasonal sales</label>
+
+      <label class="consent-row">
+        <input type="checkbox" name="consent-newsletter" required>
+        <span>Send me deal alerts and money-saving tips. I'm 18 years old or older and can unsubscribe anytime.</span>
+      </label>
+      <button type="submit">Get my deals</button>
+      <p class="capture-fineprint">See our <a href="/legal/privacy/">privacy policy</a> for how we use your details.</p>
+    </form>
+  </div>
+</div>
