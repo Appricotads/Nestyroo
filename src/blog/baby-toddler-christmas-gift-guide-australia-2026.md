@@ -112,14 +112,3 @@ Sometimes. Check prices before the sale, because a "was" price isn't always real
 Yes, if you buy from reputable retailers and check the age label and recalls. Be careful with unknown overseas sellers.
 
 Looking for more ideas? Browse our [toddlers and kids guides](/category/toddlers-kids/) and the [sales calendar](/category/sales-calendar/).
-
-<!--
-EDITOR NOTES (delete before publishing):
-1. Featured image: add `image:` and `imageAlt:` to the front matter.
-   Suggested file name: baby-toddler-christmas-gift-guide-australia-2026.png
-   Alt text: "Wrapped Christmas gifts and wooden toys for a baby and toddler"
-2. Add affiliate deal boxes only for real, current deals:
-   <div class="deal-box"><b>Product name</b><br>Retailer · $Price<br><a class="btn" href="YOUR-AFFILIATE-LINK" rel="sponsored nofollow noopener">See today's price</a></div>
-3. No infant formula. No invented prices or products.
-4. Update after Black Friday (27 Nov) with real deals, and re-check dates and "Last updated".
--->
