@@ -5,8 +5,7 @@ layout: layouts/base.njk
   <p class="crumbs"><a href="/">Home</a>{% for c in categories %}{% if c.slug in tags %} / <a href="/category/{{ c.slug }}/">{{ c.title }}</a>{% endif %}{% endfor %}</p>
   <h1 class="post-title">{{ title }}</h1>
   <p class="post-meta">Updated {{ date | readableDate }}</p>
-  <p class="disclosure-box">We may earn a commission if you buy through our links. <a href="/legal/affiliate-disclosure/">How we choose deals</a></p>
-
+  <p class="disclosure-box">If affiliate links are introduced, we may earn a commission from qualifying purchases at no additional cost to you. <a href="/legal/affiliate-disclosure/">How we choose deals</a></p>
   <div class="post-layout">
     <article class="post">
       {% if image %}<img class="post-featured-image" src="{{ image }}" alt="{{ imageAlt or title }}">{% endif %}
