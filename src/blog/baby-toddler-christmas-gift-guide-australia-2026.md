@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Baby & Toddler Christmas Gift Guide Australia 2026
+image: baby-toddler-christmas-gift-guide-australia-2026.png
+imageAlt: Wrapped Christmas gifts and wooden toys for a baby and toddler
 description: A baby and toddler Christmas gift guide for Australian families. Gift ideas by age, safety checks, and the sale dates to plan around.
 date: 2026-11-02
 tags:
