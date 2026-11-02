@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Newborn Essentials Checklist Australia 2026
+image: /images/uploads/newborn-essentials-checklist-australia.png
+imageAlt: Folded newborn clothes, a muslin wrap and a hospital bag laid out on a bed
 description: A newborn essentials checklist for Australian parents. What you really need, what can wait, and the safety checks before you buy.
 date: 2026-11-03
 tags:
