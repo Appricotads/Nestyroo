@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Pram Buying Guide Australia 2026: How to Choose
+title: "Pram Buying Guide Australia 2026: How to Choose"
 image: /images/uploads/pram-buying-guide-australia.png
 imageAlt: Parent pushing a pram along a footpath in an Australian park
 description: A pram buying guide for Australian parents. Types of prams and strollers, what to check, safety tips, and how to time your purchase for sales.
