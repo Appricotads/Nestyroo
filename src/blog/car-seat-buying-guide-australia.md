@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Car Seat Buying Guide Australia 2026: How to Choose
+title: "Car Seat Buying Guide Australia 2026: How to Choose"
 image: /images/uploads/car-seat-buying-guide-australia.png
 imageAlt: Parent buckling a baby into a rear-facing car seat in the back of a car
 description: Choosing a child car seat? Here's what the Australian Road Rules require, the types of seats, how to check the fit and how to avoid an unsafe buy.
