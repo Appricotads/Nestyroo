@@ -3,9 +3,9 @@ layout: layouts/post.njk
 title: Black Friday Baby Deals Australia 2026 Guide
 image: /images/uploads/black-friday-baby-deals-australia-2026.jpg
 imageAlt: Parent comparing baby gear prices on a phone before the Black Friday sales
-description: "Black Friday baby deals in Australia 2026: key sale dates, what to
-  price-check now, and safety checks before buying prams, cots and car seats."
-date: 2026-10-20
+description: "Black Friday baby deals in Australia 2026: confirmed dates, which
+  retailers have started, what to price-check now, and safety checks before you buy."
+date: 2026-11-04
 tags:
   - sales-calendar
   - baby-gear-nursery
@@ -13,24 +13,48 @@ tags:
 
 Black Friday baby deals in Australia are worth planning for, because prams, car seats and cots can swing by a lot of dollars during the November sales. A little preparation now helps you buy what you actually need, at a price you've checked, and avoid rushed purchases you regret later.
 
-This guide covers the 2026 sale dates, how to tell a real discount from a fake one, and the safety checks to do before you add any baby gear to your cart. *Last updated 20 October 2026.*
+This guide covers the 2026 sale dates, which retailers have announced or started sales so far, how to tell a real discount from a fake one, and the safety checks to do before you add any baby gear to your cart. *Last updated 4 November 2026.*
 
-**In this guide:** [Sale dates](#sale-dates) · [How to prepare](#prepare) · [What's worth waiting for](#worth-waiting) · [Safety checks](#safety) · [Fake discounts](#fake-discounts) · [Checklist](#checklist) · [FAQ](#faq)
+**In this guide:** [Sale dates](#sale-dates) · [What's confirmed so far](#so-far) · [Expected retailer timing](#timing) · [How to prepare](#prepare) · [What's worth waiting for](#worth-waiting) · [Safety checks](#safety) · [Fake discounts](#fake-discounts) · [Checklist](#checklist) · [FAQ](#faq)
 
-<h2 id="sale-dates">Black Friday and Click Frenzy 2026 dates</h2>
+<h2 id="sale-dates">Black Friday 2026 dates</h2>
 
 | Event | Date |
 |---|---|
+| Click Frenzy Main Event (finished) | Tuesday 27 October to Friday 30 October 2026 |
 | Singles' Day | Wednesday 11 November 2026 |
-| Click Frenzy Main Event | November 2026 (dates to be confirmed) |
 | Black Friday | Friday 27 November 2026 |
 | Small Business Saturday | Saturday 28 November 2026 |
 | Cyber Monday | Monday 30 November 2026 |
 | Boxing Day | Saturday 26 December 2026 |
 
-- **Click Frenzy's November dates aren't confirmed yet.** Last year's Main Event ran from the evening of Tuesday 11 November to the end of Friday 14 November, but don't assume the same pattern. Check the [official Click Frenzy site](https://www.clickfrenzy.com.au) for the confirmed dates.
+- **Click Frenzy has already happened.** The 2026 Main Event ran earlier than last year, from 27 to 30 October. See our [Click Frenzy baby deals guide](/blog/click-frenzy-2026-baby-deals-guide/) for how it works.
 - **Black Friday now runs for days, not hours.** Many retailers start the week before and carry sales through to Cyber Monday, so you may see deals from around 23 November.
 - **Boxing Day is a second chance.** If you miss a deal in November, some items drop again after Christmas.
+
+<h2 id="so-far">What's confirmed so far (as of 4 November 2026)</h2>
+
+We checked retailer pages and published sale news on 4 November. Here is what we could actually verify, and what we couldn't.
+
+- **Dates:** Black Friday is Friday 27 November and Cyber Monday is Monday 30 November 2026.
+- **Big W:** its [Black Friday page](https://www.bigw.com.au/black-friday) says the sale is "coming soon", with toys among the named categories. It says lay-by is available on many offers, with some exclusions, and mentions online-only offers. It hasn't published Black Friday prices yet.
+- **Early sales have started elsewhere.** Some retailers, including Myer and JB Hi-Fi, already have early Black Friday offers, but these are in areas like cookware, fashion and tech, not baby gear.
+- **Baby retailers:** when we checked, we couldn't verify any confirmed Black Friday prices on prams, car seats or cots. Retailers often announce these only days before the sale.
+
+We won't list a deal here until a retailer has published it. Many "early Black Friday" lists online are last year's prices.
+
+<h2 id="timing">When retailers usually start (expected, not confirmed)</h2>
+
+These start dates are estimates based on previous years, so treat them as a guide only.
+
+| Retailer | Expected start | Status |
+|---|---|---|
+| Amazon Australia | From about Wednesday 18 November | Estimated |
+| Big W, Kmart and Target | From about Monday 23 November | Estimated |
+| Myer and David Jones | From about Wednesday 25 November | Estimated |
+| Baby Bunting and other baby specialists | Not announced | Check their sites |
+
+Check each retailer's own website for the real dates. Individual sales can last a week or more.
 
 <h2 id="prepare">How to prepare for Black Friday baby deals</h2>
 
@@ -88,15 +112,18 @@ Price matters, but it comes second to safety. In Australia, some baby and nurser
 - Target price set for each item
 - Safety standard and recall check done for prams, cots and car seats
 - Delivery cost and returns policy compared
-- Sale dates in your calendar: 11 Nov, Click Frenzy (TBC), 27 Nov, 30 Nov, 26 Dec
+- Sale dates in your calendar: 11 Nov, 27 Nov, 30 Nov, 26 Dec
 
 <h2 id="faq">Frequently asked questions</h2>
 
 ### When is Black Friday 2026 in Australia?
 Black Friday is Friday 27 November 2026, and Cyber Monday is Monday 30 November 2026. Many retailers begin their sales earlier in the week, and some run deals through the weekend.
 
-### When is Click Frenzy 2026?
-Click Frenzy's Main Event runs in November, but the 2026 dates hadn't been confirmed at the time of writing. In 2025 it ran from Tuesday 11 to Friday 14 November.
+### When was Click Frenzy 2026?
+Click Frenzy's Main Event ran from Tuesday 27 October to Friday 30 October 2026, earlier than in 2025, when it ran in mid-November.
+
+### Have any retailers announced Black Friday baby deals yet?
+Not that we could verify on 4 November. Some retailers have early offers in other categories, and Big W lists its sale as coming soon. We'll add confirmed baby and kids deals here as they're published.
 
 ### Is Black Friday a good time to buy a pram or car seat?
 It can be, if it's a planned purchase and you've checked the model and its safety standard in advance. Compare the sale price with your recorded price history, and check the delivery and returns terms.
@@ -109,4 +136,4 @@ Only if the price per nappy beats what you normally pay and your baby will use t
 
 ---
 
-Looking for more? Browse our [baby and nursery guides](/category/baby-gear-nursery/) or the full [sales calendar](/category/sales-calendar/). We'll update this guide as Click Frenzy confirms its dates and retailers announce their November sales.
+Looking for more? Browse our [baby gear and nursery guides](/category/baby-gear-nursery/) or the full [sales calendar](/category/sales-calendar/). We'll update this guide as retailers announce their Black Friday sales.
