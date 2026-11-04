@@ -125,14 +125,3 @@ Not necessarily. A higher price can mean extra features, but every seat sold her
 Most have an expiry date set by the manufacturer. It's on the label, and you shouldn't use a seat that's past it.
 
 Want more? Browse our [baby gear and nursery guides](/category/baby-gear-nursery/) and [pregnancy and newborn guides](/category/pregnancy-newborn/).
-
-<!--
-EDITOR NOTES (delete before publishing):
-1. Featured image: add `image:` and `imageAlt:` to the front matter.
-   Suggested file name: car-seat-buying-guide-australia.png
-   Alt text: "Parent buckling a baby into a rear-facing car seat in the back of a car"
-2. SAFETY CONTENT: the age table and front-seat rules follow the Australian Road Rules (child restraint rule). Re-check them against the current rules and Kidsafe once a year, along with the AS/NZS 1754 reference.
-3. Do not claim a specific seat is "safest" or "best". No invented prices or products.
-4. No affiliate links this month. When added later, use rel="sponsored nofollow noopener".
-5. Update after Black Friday (27 Nov) and re-check dates and "Last updated".
--->
