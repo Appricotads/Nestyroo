@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Pram or Car Seat: Buy Now or Wait for Black Friday 2026?"
-image: /images/uploads/pram-car-seat-black-friday-wait-or-buy-australia.jpeg
+image: /images/uploads/pram-car-seat-black-friday-wait-or-buy-australia.png
 imageAlt: Parent comparing pram and car seat prices before Black Friday
 description: Should you buy a pram or car seat now or wait for Black Friday 2026? A simple way to decide, based on your due date, your price check and the sale dates.
 date: 2026-11-13
