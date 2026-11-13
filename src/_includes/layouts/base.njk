@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}{% if title %} · {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or site.tagline }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{% if layout == 'layouts/post.njk' %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.tagline }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ image or '/images/uploads/nestyroo_logo.png' }}">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="stylesheet" href="/css/style.css">
 <link rel="icon" type="image/png" href="/images/uploads/nestyroo_favicon.png">
    {% if noindex %}<meta name="robots" content="noindex">{% endif %}
