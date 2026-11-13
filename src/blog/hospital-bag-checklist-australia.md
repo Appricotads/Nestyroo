@@ -125,4 +125,9 @@ It depends on the hospital and the ward. Ask your hospital in advance.
 ### What should I not pack?
 Valuables, too many clothes and anything the hospital asks you not to bring.
 
+**Related guides:**
+- [Cot buying guide](/blog/cot-buying-guide-australia/)
+- [Pram buying guide](/blog/pram-buying-guide-australia/)
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
+
 Want more? Browse our [pregnancy and newborn guides](/category/pregnancy-newborn/) and [baby gear and nursery guides](/category/baby-gear-nursery/).

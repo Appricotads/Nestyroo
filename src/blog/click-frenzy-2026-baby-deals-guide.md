@@ -101,4 +101,9 @@ They can be, if the discount is real and the product meets Australian safety sta
 ### Can I return baby gear bought in a sale?
 Sale items usually have the same consumer guarantees as regular items under Australian Consumer Law, but some retailers set their own change-of-mind rules. Read the policy before you buy.
 
+**Related guides:**
+- [Pram or car seat: buy now or wait for Black Friday?](/blog/pram-car-seat-black-friday-wait-or-buy-australia/)
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
+- [Pram buying guide](/blog/pram-buying-guide-australia/)
+
 Want more? Browse our [baby gear and nursery guides](/category/baby-gear-nursery/) or the full [sales calendar](/category/sales-calendar/).

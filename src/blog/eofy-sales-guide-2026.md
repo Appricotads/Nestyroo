@@ -98,4 +98,8 @@ Sometimes. Compare with Click Frenzy and Black Friday prices, and check Australi
 ### Should I wait for Black Friday instead?
 For some products, yes. Track prices through the year and buy when it hits your target price.
 
+**Related guides:**
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
+- [Pram buying guide](/blog/pram-buying-guide-australia/)
+
 Want more? Browse the [sales calendar](/category/sales-calendar/) and our [savings tips](/category/savings-tips/).

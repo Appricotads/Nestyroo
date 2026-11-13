@@ -113,4 +113,8 @@ Sometimes. Check prices before the sale, because a "was" price isn't always real
 ### Is it safe to buy children's toys online?
 Yes, if you buy from reputable retailers and check the age label and recalls. Be careful with unknown overseas sellers.
 
+**Related guides:**
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
+- [Newborn and baby essentials checklist](/blog/newborn-essentials-checklist-australia/)
+
 Looking for more ideas? Browse our [toddlers and kids guides](/category/toddlers-kids/) and the [sales calendar](/category/sales-calendar/).

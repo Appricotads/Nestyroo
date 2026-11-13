@@ -1,10 +1,9 @@
 ---
 layout: layouts/post.njk
-title: Black Friday Baby Deals Australia 2026 Guide
+title: "Black Friday Baby Deals Australia 2026: Dates & What to Buy"
 image: /images/uploads/black-friday-baby-deals-australia-2026.jpg
 imageAlt: Parent comparing baby gear prices on a phone before the Black Friday sales
-description: "Black Friday baby deals in Australia 2026: confirmed dates, which
-  retailers have started, what to price-check now, and safety checks before you buy."
+description: "Black Friday is 27 November 2026. See the sale dates, which baby gear to price-check now, and the safety checks to do before you buy."
 date: 2026-11-04
 tags:
   - sales-calendar
@@ -70,13 +69,13 @@ The best thing you can do before any sale is decide what you need, then note wha
 Sale calendars regularly point to November as a strong time for toys and big-ticket household items. For baby gear, the rule is simple: the more an item costs, the more you can save on a good discount, so those are the ones to track.
 
 ### Prams and strollers
-High price and a planned purchase, so they're worth tracking closely. Research the model first, and check it meets the safety standard (see below). Buy from a seller with a clear returns policy.
+High price and a planned purchase, so they're worth tracking closely. Research the model first (our [pram buying guide](/blog/pram-buying-guide-australia/) shows what to check), and check it meets the safety standard (see below). Buy from a seller with a clear returns policy.
 
 ### Car seats and child restraints
-Another high-cost, planned purchase. Make sure the seat suits your child's age and size and fits your car, because the cheapest seat is no bargain if it doesn't.
+Another high-cost, planned purchase. Make sure the seat suits your child's age and size and fits your car, because the cheapest seat is no bargain if it doesn't. See our [car seat buying guide](/blog/car-seat-buying-guide-australia/). If bub is due soon, read our guide on whether to [buy now or wait for Black Friday](/blog/pram-car-seat-black-friday-wait-or-buy-australia/).
 
 ### Cots and nursery furniture
-Big-ticket and bought once. Check the safety label as well as the price, and compare the total cost with delivery.
+Big-ticket and bought once. Check the safety label as well as the price, and compare the total cost with delivery. Our [cot buying guide](/blog/cot-buying-guide-australia/) covers what to check.
 
 ### Nappies and wipes
 Compare the **price per nappy**, not the headline discount. A bigger box in a size your baby will outgrow within a month isn't a bargain.
@@ -135,5 +134,10 @@ Yes, if you buy from a reputable seller and check that the product meets the saf
 Only if the price per nappy beats what you normally pay and your baby will use the size before outgrowing it. Don't stockpile sizes you may not need.
 
 ---
+
+**Related guides:**
+- [Pram or car seat: buy now or wait for Black Friday?](/blog/pram-car-seat-black-friday-wait-or-buy-australia/)
+- [Newborn and baby essentials checklist](/blog/newborn-essentials-checklist-australia/)
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
 
 Looking for more? Browse our [baby gear and nursery guides](/category/baby-gear-nursery/) or the full [sales calendar](/category/sales-calendar/). We'll update this guide as retailers announce their Black Friday sales.

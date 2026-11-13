@@ -124,4 +124,10 @@ Not necessarily. A higher price can mean extra features, but every seat sold her
 ### How long does a car seat last?
 Most have an expiry date set by the manufacturer. It's on the label, and you shouldn't use a seat that's past it.
 
+**Related guides:**
+- [Pram buying guide](/blog/pram-buying-guide-australia/)
+- [Buy now or wait for Black Friday?](/blog/pram-car-seat-black-friday-wait-or-buy-australia/)
+- [Cot buying guide](/blog/cot-buying-guide-australia/)
+- [Hospital bag checklist](/blog/hospital-bag-checklist-australia/)
+
 Want more? Browse our [baby gear and nursery guides](/category/baby-gear-nursery/) and [pregnancy and newborn guides](/category/pregnancy-newborn/).

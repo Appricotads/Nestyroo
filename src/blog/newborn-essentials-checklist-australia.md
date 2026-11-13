@@ -1,24 +1,26 @@
 ---
 layout: layouts/post.njk
-title: Newborn Essentials Checklist Australia 2026
+title: "Newborn Essentials Checklist Australia: What You Need for a Baby"
 image: /images/uploads/newborn-essentials-checklist-australia.png
 imageAlt: Folded newborn clothes, a muslin wrap and a hospital bag laid out on a bed
 description: A newborn essentials checklist for Australian parents. What you really need, what can wait, and the safety checks before you buy.
-date: 2026-11-03
+date: 2026-11-13
 tags:
   - pregnancy-newborn
   - baby-gear-nursery
 ---
 
-*Last updated 3 November 2026.*
+*Last updated 13 November 2026.*
 
-A newborn essentials checklist helps you buy what you actually need before the baby arrives, and skip what you don't. This guide is written for Australian parents. It covers sleep, clothing, nappies, feeding, getting around, safety checks, and when to buy so you don't pay full price for everything at once.
+What do you really need for a newborn? This baby essentials checklist covers the things you need before bub arrives, what can wait, and what to check for safety. It's organised by sleep, clothing, nappies, feeding and getting around, so you can buy what you need and skip what you don't.
 
-This is general information, not medical advice. Your midwife, GP or child health nurse can answer questions about your baby's health.
+For questions about your baby's health, ask your midwife, GP or child health nurse.
 
-<h2 id="must-haves">The short version: what you need in the first weeks</h2>
+**In this checklist:** [What you need](#must-haves) · [Need, nice to have, can wait](#table) · [Sleep](#sleep) · [Clothing](#clothing) · [Nappies](#nappies) · [Feeding](#feeding) · [Getting around](#car) · [Hospital bag](#hospital-bag) · [Saving money](#saving) · [FAQ](#faq)
 
-If you only buy a few things, buy these:
+<h2 id="must-haves">What do I need for a newborn? The short version</h2>
+
+These are the baby essentials for the first weeks. If you only buy a few things, buy these:
 
 1. **A safe place to sleep** (cot or bassinet that meets Australian safety requirements).
 2. **A car seat or capsule** that is fitted correctly, because you need one to take your baby home from hospital.
@@ -29,9 +31,22 @@ If you only buy a few things, buy these:
 
 Everything else can wait until you know what you and your baby actually use.
 
+<h2 id="table">Baby essentials: need now, nice to have, and can wait</h2>
+
+| Category | Need before the birth | Nice to have | Can wait |
+|---|---|---|---|
+| Sleep | Cot or bassinet, firm mattress, fitted sheets | Sleeping bags, a night light | Matching nursery furniture |
+| Clothing | Bodysuits, sleepsuits, hat, socks | Extra warm layers | Lots of newborn sizes, baby shoes |
+| Nappies and changing | Nappies, wipes, changing mat | Nappy bin | Change table, wipe warmer |
+| Feeding | Supplies that suit your plan, burp cloths | Feeding pillow | Extra gadgets |
+| Getting around | Approved car seat or capsule | Pram, baby carrier | Travel accessories |
+| Health and care | Muslin wraps, nappy rash cream | Baby bath | Extra toiletries |
+
+Not sure where to start? Buy the safety items first, then add the rest as you find out what you use.
+
 <h2 id="sleep">Sleep</h2>
 
-- **Cot or bassinet.** Cots, including portable cots, must meet the mandatory Australian safety standard. Look for the compliance information before you buy.
+- **Cot or bassinet.** Cots, including portable cots, must meet the mandatory Australian safety standard. Look for the compliance information before you buy. See our [cot buying guide](/blog/cot-buying-guide-australia/) for what to check.
 - **Firm mattress that fits.** There should be no gaps between the mattress and the sides.
 - **Fitted sheets and light wraps or sleeping bags.** Buy two or three sets so you have a spare during laundry days.
 - **Nothing extra in the cot.** Follow safe sleeping guidance from [Red Nose Australia](https://rednose.org.au) for the latest advice.
@@ -66,11 +81,11 @@ Feeding needs differ from family to family. Ask your midwife or child health nur
 
 <h2 id="car">Getting home and getting around</h2>
 
-- **Car seat or capsule.** It must be used correctly every time. Consider having it fitted by an authorised fitter. Never buy a second-hand car seat if you don't know its history.
-- **Pram or stroller.** Prams and strollers must meet the mandatory Australian safety standard. Check that the model suits your car boot and your home.
+- **Car seat or capsule.** It must be used correctly every time. Consider having it fitted by an authorised fitter. Never buy a second-hand car seat if you don't know its history. Our [car seat buying guide](/blog/car-seat-buying-guide-australia/) explains the types and the rules.
+- **Pram or stroller.** Prams and strollers must meet the mandatory Australian safety standard. Check that the model suits your car boot and your home. See our [pram buying guide](/blog/pram-buying-guide-australia/).
 - **Baby carrier**, which can be useful for hands-free time at home.
 
-Our [Black Friday baby deals guide](/blog/black-friday-baby-deals-australia-2026/) explains how to price-check bigger items like prams and car seats.
+Not sure whether to buy now or wait for the sales? See our guide on whether to [buy a pram or car seat now or wait for Black Friday](/blog/pram-car-seat-black-friday-wait-or-buy-australia/).
 
 <h2 id="can-wait">What can wait</h2>
 
@@ -84,7 +99,7 @@ If you're unsure, wait. Most items can be bought within a day or two.
 
 <h2 id="hospital-bag">Hospital bag basics</h2>
 
-Check your hospital's own list, then pack a few items for the baby:
+Check your hospital's own list, then pack a few items for the baby. Our full [hospital bag checklist](/blog/hospital-bag-checklist-australia/) covers what to pack for you and your partner too.
 
 - A going-home outfit in two sizes
 - A wrap or blanket
@@ -95,7 +110,7 @@ Check your hospital's own list, then pack a few items for the baby:
 
 - **Borrow or buy second-hand** for items with no safety risk, such as clothing, books and carriers. Don't buy a second-hand car seat unless you know its full history.
 - **Wait for the big sales.** Black Friday on 27 November 2026 and Boxing Day on 26 December are good times to buy bigger items, if the price is a real discount.
-- **Track prices first.** Note the price at two or three retailers so you can spot a fake discount.
+- **Track prices first.** Note the price at two or three retailers so you can spot a fake discount. Our [guide to saving money on baby gear](/blog/save-money-on-baby-gear-australia/) has more tips.
 - **Ask for what you need.** Baby showers and family gifts are a good time to ask for the bigger items.
 
 <h2 id="checklist">Newborn checklist</h2>
@@ -115,6 +130,15 @@ Check your hospital's own list, then pack a few items for the baby:
 ### What do I really need for a newborn?
 A safe sleep space, a car seat, clothes, nappies, feeding supplies and a way to get around. Everything else can wait.
 
+### What are the baby must-haves?
+The must-haves are the safety items and the basics: a cot or bassinet that meets the standard, an approved car seat or capsule, a few clothes in two sizes, nappies and wipes, and feeding supplies that suit your plan.
+
+### What do I need to buy before the baby arrives?
+Buy the car seat, a safe sleep space and the basics (clothes, nappies, wipes and wraps) before the due date. Most other things can be bought after the birth.
+
+### What can wait until after the baby is born?
+A pram can sometimes wait a few weeks, and so can extra clothes, toys, a change table and gadgets. Wait to see what you and your baby actually use.
+
 ### When should I buy newborn essentials?
 Most parents buy in the second or third trimester. Buy the safety items early, and leave the extras until after the baby arrives.
 
@@ -129,14 +153,4 @@ Clothing, books and carriers are usually fine. For car seats, cots and prams, ch
 
 Want more? Browse our [pregnancy and newborn guides](/category/pregnancy-newborn/) and [baby gear and nursery guides](/category/baby-gear-nursery/).
 
-<!--
-EDITOR NOTES (delete before publishing):
-1. Featured image: add `image:` and `imageAlt:` to the front matter.
-   Suggested file name: newborn-essentials-checklist-australia.png
-   Alt text: "Folded newborn clothes, a muslin wrap and a hospital bag laid out on a bed"
-2. Add affiliate deal boxes only for real, current deals:
-   <div class="deal-box"><b>Product name</b><br>Retailer · $Price<br><a class="btn" href="YOUR-AFFILIATE-LINK" rel="sponsored nofollow noopener">See today's price</a></div>
-3. No infant formula promotions. Do not name formula brands.
-4. Re-check the Red Nose link and the safety wording once a year.
-5. This is the first article in the Pregnancy & Newborn category.
--->
+

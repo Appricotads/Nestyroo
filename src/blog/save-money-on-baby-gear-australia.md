@@ -130,6 +130,10 @@ Wipe warmers, a change table (a mat on a firm surface works), lots of newborn cl
 ### Is buy now, pay later a good idea for baby gear?
 Only if you can pay it off on time, because late fees and missed payments can cost more than you save.
 
+**Related guides:**
+- [Pram or car seat: buy now or wait for Black Friday?](/blog/pram-car-seat-black-friday-wait-or-buy-australia/)
+- [Hospital bag checklist](/blog/hospital-bag-checklist-australia/)
+
 Want more? Browse our [savings tips](/category/savings-tips/) and [sales calendar](/category/sales-calendar/).
 
 

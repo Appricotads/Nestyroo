@@ -116,6 +116,11 @@ No. Safe sleeping guidance says to keep the cot clear of bumpers, pillows and so
 ### When should I set up the cot?
 A few weeks before the due date, so you have time to assemble it and check it.
 
+**Related guides:**
+- [Newborn and baby essentials checklist](/blog/newborn-essentials-checklist-australia/)
+- [Hospital bag checklist](/blog/hospital-bag-checklist-australia/)
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
+
 Want more? Browse our [baby gear and nursery guides](/category/baby-gear-nursery/) and [pregnancy and newborn guides](/category/pregnancy-newborn/).
 
 
