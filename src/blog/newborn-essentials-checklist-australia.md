@@ -151,6 +151,11 @@ No. A changing mat on a safe, firm surface works well.
 ### Should I buy second-hand baby gear?
 Clothing, books and carriers are usually fine. For car seats, cots and prams, check the safety standard and recalls, and avoid a car seat with an unknown history.
 
+**Related guides:**
+- [First-year baby budget](/blog/first-year-baby-budget-australia/)
+- [Hospital bag checklist](/blog/hospital-bag-checklist-australia/)
+- [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
+
 Want more? Browse our [pregnancy and newborn guides](/category/pregnancy-newborn/) and [baby gear and nursery guides](/category/baby-gear-nursery/).
 
 

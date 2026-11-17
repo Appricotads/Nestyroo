@@ -116,5 +116,7 @@ Yes, if you buy from reputable retailers and check the age label and recalls. Be
 **Related guides:**
 - [How to save money on baby gear](/blog/save-money-on-baby-gear-australia/)
 - [Newborn and baby essentials checklist](/blog/newborn-essentials-checklist-australia/)
+- [Toddler toys by age](/blog/toddler-toys-by-age-australia/)
+- [Christmas on a budget for kids](/blog/christmas-on-a-budget-kids-australia/)
 
 Looking for more ideas? Browse our [toddlers and kids guides](/category/toddlers-kids/) and the [sales calendar](/category/sales-calendar/).

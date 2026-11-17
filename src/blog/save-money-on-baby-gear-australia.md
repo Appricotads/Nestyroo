@@ -133,6 +133,8 @@ Only if you can pay it off on time, because late fees and missed payments can co
 **Related guides:**
 - [Pram or car seat: buy now or wait for Black Friday?](/blog/pram-car-seat-black-friday-wait-or-buy-australia/)
 - [Hospital bag checklist](/blog/hospital-bag-checklist-australia/)
+- [First-year baby budget](/blog/first-year-baby-budget-australia/)
+- [Christmas on a budget for kids](/blog/christmas-on-a-budget-kids-australia/)
 
 Want more? Browse our [savings tips](/category/savings-tips/) and [sales calendar](/category/sales-calendar/).
 
