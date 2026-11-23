@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "High Chair Buying Guide Australia: How to Choose (2026)"
-image: /images/uploads/high-chair-buying-guide-australia.jpg
+image: /images/uploads/high-chair-buying-guide-australia.png
 imageAlt: Baby sitting in a high chair at a kitchen table during a meal
 description: "How to choose a high chair: types, safety checks, features that matter and what to skip. A simple guide for parents starting solids."
 date: 2026-11-23

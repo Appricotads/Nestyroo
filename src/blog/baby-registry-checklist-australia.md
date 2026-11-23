@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Baby Registry Checklist Australia: What to Add and What to Skip"
-image: /images/uploads/baby-registry-checklist-australia.jpg
+image: /images/uploads/baby-registry-checklist-australia.png
 imageAlt: Expecting parents ticking items off a baby registry checklist on a tablet
 description: "A baby registry checklist for Aussie parents: what to add, what to leave off, and how to keep gift-givers on budget. Includes big-ticket and small gift ideas."
 date: 2026-11-23
